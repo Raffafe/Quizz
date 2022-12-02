@@ -1,3 +1,12 @@
+# Quizz_Clone Buzzfeed
+![](https://github.com/Raffafe/Quizz/blob/d91c311d11d44e904d0f743aeccb625fb2976931/src/assets/imgs/foto_home.png)
+
+
+
+## Tecnologias utilizadas:
+- HTML5
+- CSS3
+- Angular
 # ProjetoBuzzfeed
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
